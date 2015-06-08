@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-    <addon id="script.module.simplejson" version="3.3.0" />
+    <addon id="script.module.simplejson" name="script.module.axel.downloader" version="3.3.0" />
     <addon id="script.module.axel.downloader" version="0.2.0" />
 </addons>
