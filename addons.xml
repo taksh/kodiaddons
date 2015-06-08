@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="script.module.simplejson" version="3.3.0">
+    </addon>
+<addon>
+<addon id="script.module.axel.downloader" version="0.2.1">
+</addon>
+</addons>
