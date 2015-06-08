@@ -5,4 +5,17 @@
 <addon>
 <addon id="script.module.axel.downloader" version="0.2.0">
 </addon>
+<addon id="script.module.elementtree">
+    </addon>
+<addon id="script.module.beautifulsoup">
+</addon>
+
+<addon id="cript.module.metahandler" version="2.5.1">
+</addon>
+<addon>
+    <addon id="script.module.addon.common" version="2.0.0" />
+    </addon>
+
+
+
 </addons>
