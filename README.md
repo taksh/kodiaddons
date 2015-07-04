@@ -10,3 +10,6 @@ Contains installable kodi addons
 
 #### Genesis
 ![alt tag](https://github.com/taksh/kodiaddons/blob/master/qrcodes/Genesis.png)
+
+#### MusicBox
+![alt tag](https://github.com/taksh/kodiaddons/blob/master/qrcodes/musicbox.png)
