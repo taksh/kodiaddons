@@ -7,7 +7,6 @@ Contains installable kodi addons
 #### Icefilms
 ![alt tag](https://github.com/taksh/kodiaddons/blob/master/qrcodes/icefilms.png)
 
-
 #### Genesis
 ![alt tag](https://github.com/taksh/kodiaddons/blob/master/qrcodes/Genesis.png)
 
