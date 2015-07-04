@@ -258,4 +258,18 @@ https://github.com/HenrikDK/xbmc-common-plugin-functions
     <platform>all</platform>
   </extension>
 </addon>
+<addon id="script.module.mutagen"
+       name="mutagen"
+       version="1.21.0"
+       provider-name="Joe Wreschnig">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <source>https://github.com/Giftie/script.module.mutagen</source>
+  </extension>
+</addon>
 </addons>
