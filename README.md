@@ -8,6 +8,9 @@ Contains the QR codes for the lambda and podgod repo
 ####CCloud TV
 ![alt tag](https://github.com/taksh/kodiaddons/blob/master/qrcodes/ccloud.png)
 
+####Sports Devil
+![alt tag](https://github.com/taksh/kodiaddons/blob/master/qrcodes/SportsDevil.png)
+
 
 
 
