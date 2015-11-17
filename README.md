@@ -2,11 +2,11 @@
 Contains the QR codes for the lambda and podgod repo
 
 ####Lambda Repo
-
+![alt tag](https://github.com/taksh/kodiaddons/blob/master/qrcodes/lambda.png)
 
 
 ####Podgod Repo
-
+![alt tag](https://github.com/taksh/kodiaddons/blob/master/qrcodes/podgod.png)
 
 
 
