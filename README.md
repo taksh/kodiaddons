@@ -1,4 +1,17 @@
-# kodiaddons
+#FusionRepo(isengard)
+Contains the QR codes for the lambda and podgod repo
+
+####Lambda Repo
+
+
+
+####Podgod Repo
+
+
+
+
+
+# kodiaddons(Helix)
 Contains installable kodi addons
 
 #### 1Channel
