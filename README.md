@@ -1,12 +1,14 @@
 #FusionRepo(isengard)
 Contains the QR codes for the lambda and podgod repo
 
-####Lambda Repo
-![alt tag](https://github.com/taksh/kodiaddons/blob/master/qrcodes/lambda.png)
+####Genesis
+![alt tag](https://github.com/taksh/kodiaddons/blob/master/qrcodes/genesis_isengard.png)
 
 
-####Podgod Repo
-![alt tag](https://github.com/taksh/kodiaddons/blob/master/qrcodes/podgod.png)
+####CCloud TV
+![alt tag](https://github.com/taksh/kodiaddons/blob/master/qrcodes/ccloud.png)
+
+
 
 
 
