@@ -1,3 +1,10 @@
+#Jarvis
+Contains the QR codes for the Phoenix Repo
+
+###Phoenix
+![alt tag](https://github.com/taksh/kodiaddons/blob/master/qrcodes/Phoenix.png)
+
+
 #FusionRepo(isengard)
 Contains the QR codes for the lambda and podgod repo
 
