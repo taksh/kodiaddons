@@ -5,6 +5,10 @@ Contains the QR codes for the Phoenix Repo
 ![alt tag](https://github.com/taksh/kodiaddons/blob/master/qrcodes/Phoenix.png)
 
 
+###Exodus
+![alt tag](https://github.com/taksh/kodiaddons/blob/master/qrcodes/exodus.png)
+
+
 #FusionRepo(isengard)
 Contains the QR codes for the lambda and podgod repo
 
